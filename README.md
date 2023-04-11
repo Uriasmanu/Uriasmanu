@@ -13,6 +13,6 @@ Sou uma entusiasta de desenvolvimento web<br>Tenho habilidades em HTML, CSS<br>E
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uriasmanu&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Uriasmanu&icon=7&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Uriasmanu&label=Profile%20Views&color=3&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
